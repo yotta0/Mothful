@@ -1,10 +1,15 @@
+alembic==1.7.7
+beautifulsoup4==4.10.0
+bs4==0.0.1
 click==8.0.4
 Flask==2.0.3
 greenlet==1.1.2
 itsdangerous==2.1.1
 Jinja2==3.0.3
+Mako==1.2.0
 MarkupSafe==2.1.1
 pkg_resources==0.0.0
 psycopg2==2.9.3
+soupsieve==2.3.1
 SQLAlchemy==1.4.32
 Werkzeug==2.0.3
